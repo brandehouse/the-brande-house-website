@@ -1,0 +1,18 @@
+<svg width="720" height="640" viewBox="0 0 720 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Creative desk placeholder</title>
+  <desc id="desc">Illustrated desk with notes, color swatches and design tools.</desc>
+  <rect width="720" height="640" rx="42" fill="#FFF3DF"/>
+  <rect x="72" y="84" width="276" height="370" rx="26" fill="#DFE7D8" stroke="#143D2F" stroke-width="5"/>
+  <rect x="112" y="130" width="196" height="36" rx="18" fill="#143D2F"/>
+  <rect x="112" y="198" width="142" height="22" rx="11" fill="#C76635"/>
+  <rect x="112" y="248" width="180" height="18" rx="9" fill="#143D2F" opacity="0.45"/>
+  <rect x="112" y="288" width="152" height="18" rx="9" fill="#143D2F" opacity="0.45"/>
+  <rect x="405" y="94" width="194" height="194" rx="97" fill="#C76635"/>
+  <path d="M453 191H551" stroke="#FFF3DF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M502 142V240" stroke="#FFF3DF" stroke-width="18" stroke-linecap="round"/>
+  <rect x="394" y="348" width="220" height="152" rx="28" fill="#143D2F"/>
+  <circle cx="448" cy="424" r="30" fill="#FFF3DF"/>
+  <circle cx="514" cy="424" r="30" fill="#C76635"/>
+  <circle cx="580" cy="424" r="30" fill="#DFE7D8"/>
+  <path d="M92 540H628" stroke="#143D2F" stroke-width="18" stroke-linecap="round" opacity="0.18"/>
+</svg>
